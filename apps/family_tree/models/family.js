@@ -1,6 +1,7 @@
 // ==========================================================================
 // Project:   FamilyTree.Family
 // Copyright: ©2011 My Company, Inc.
+// Authors: Brad Kahl, Andrew Deck
 // ==========================================================================
 /*globals FamilyTree */
 

@@ -1,6 +1,7 @@
 // ==========================================================================
 // Project:   FamilyTree.membersController Unit Test
 // Copyright: ©2011 My Company, Inc.
+// Authors: Brad Kahl, Andrew Deck
 // ==========================================================================
 /*globals FamilyTree module test ok equals same stop start */
 
